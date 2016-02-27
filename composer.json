@@ -1,0 +1,7 @@
+{
+  "require": {
+    "kriswallsmith/spork": "^0.3.0",
+    "mikehaertl/php-shellcommand": "^1.2",
+    "monolog/monolog": "^1.17"
+  }
+}
